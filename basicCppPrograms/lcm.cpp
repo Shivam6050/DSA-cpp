@@ -20,4 +20,5 @@ int main(){
     cin>>b;
     int ans = lcm(a,b);
     cout<<"The LCM of "<<a<<" and "<<b<<" are: "<<ans;
+    return 0;
 }
